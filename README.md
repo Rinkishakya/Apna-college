@@ -10,7 +10,7 @@
 
 <body>
     <article>
-        <h2>Converse Chuck Taylor All Star Low Top</h2>
+        <h2>Converse Chuck Taylor All Star Low Top.</h2>
         <img src="./img/challenges.jpg" alt="men" width="250px" height="250px" />
         <p><b>$65.00</b></p>
         <p id="p1">Free Shipping</p>
